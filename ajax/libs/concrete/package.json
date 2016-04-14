@@ -24,7 +24,7 @@
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ericdrowell/concrete.git",
-    "basePath": "",
+    "basePath": "/build",
     "files": [
       "concrete.js",
       "concrete.min.js"
