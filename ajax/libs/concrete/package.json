@@ -20,5 +20,14 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ericdrowell/concrete"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/ericdrowell/concrete.git",
+    "basePath": "",
+    "files": [
+      "concrete.js",
+      "concrete.min.js"
+    ]
   }
 }
